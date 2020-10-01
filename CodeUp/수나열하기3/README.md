@@ -31,5 +31,4 @@
 	-85   
 
 
-
-출처: 프로그래머스 실력 체크, https://programmers.co.kr/skill_checks
+출처: 코드업 기초100제, https://www.codeup.kr/problemsetsol.php?psid=23

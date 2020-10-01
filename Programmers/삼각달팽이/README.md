@@ -19,4 +19,4 @@
 |6|[1,2,15,3,16,14,4,17,21,13,5,18,19,20,12,6,7,8,9,10,11]|   
 
 
-출처: 프로그래머스 실력 체크, https://programmers.co.kr/skill_checks
+출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
